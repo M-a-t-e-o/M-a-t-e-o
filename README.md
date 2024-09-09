@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="froghead" width="100%"/>
+  <img src="sky.jpeg" width="100%"/>
 </div>
 
 ## Hi there 👋
