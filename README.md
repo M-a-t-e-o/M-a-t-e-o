@@ -5,7 +5,7 @@
 ## > Hello World!! <br> > _
 
 ### 👨‍💻 About Me:
-Hi! I'm Mateo Peña, former student in the university of Zaragoza (UNIZAR), Spain. <br>
+Hi! I'm Mateo Peña, a student of computer engineering at the University of Zaragoza (UNIZAR), Spain. <br>
 Some of the things I like are:
 - Coding 📡
 - Videogames 🎮
