@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="helloworld.gif" width="100%"/>
+  <img src="frogheader.jpeg" width="100%"/>
 </div>
 
 ## Hi there 👋
