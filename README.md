@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="night" width="100%"/>
+  <img src="gif" width="100%"/>
 </div>
 
 ## Hi there 👋
