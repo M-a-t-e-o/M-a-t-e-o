@@ -32,8 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="wizard-frog.gif" width="70" align="right"/>
 </div>
 
 ---
+
+<div id="header" align="center">
+  Thanks for passing through my profile! <br>
+  See ya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
+</div>
+<div id="header" align="center">
+ <img src="frogs.gif" width="500"/>
+</div>
 
