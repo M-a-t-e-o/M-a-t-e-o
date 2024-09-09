@@ -37,8 +37,8 @@
 ---
 
 <div id="header" align="center">
-  Thanks for passing through my profile! <br>
-  See ya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
+  Thanks for stopping by my profile! <br>
+  See you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
 </div>
 <div id="header" align="center">
  <img src="frogs.gif" width="500"/>
