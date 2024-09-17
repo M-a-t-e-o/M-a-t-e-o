@@ -17,7 +17,7 @@
   <img src="coding.gif" width="300"/>
 </div>
 
-<br> I recently finished the *CS50: Introduction to Computer Science* as a Summer passtime (You have my work in my repository!)
+<br> I recently finished the *CS50: Introduction to Computer Science* as a Summer passtime!
 
 ---
 
