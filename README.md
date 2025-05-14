@@ -10,7 +10,7 @@
   <br> Hi! <br>
   I'm Mateo, a student of computer engineering at the University of Zaragoza (UNIZAR), Spain. <br>
   Some of the things I like are: <br> <br>
-  - Coding 📡 -   Videogames 🎮 -   Reading 📚 - Training 🚴<br> <br>
+  - Coding 📡 -   Videogames 🎮 -   Reading 📚 - Training 🚴 - <br> <br>
 </div>
 
 <div id="header" align="center">
