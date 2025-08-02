@@ -43,7 +43,8 @@
 ---
 
 ### 📬 Contact Me:
-[![email](https://img.shields.io/badge/-mateopenacosta@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:mateopenacosta@gmail.com)
+[![](https://img.shields.io/badge/linkedin-0a66c2)]([https://www.linkedin.com/in/mateo-penya])
+[![](https://img.shields.io/badge/email-red)](mailto:mateopenacosta@gmail.com)
 
 ---
 
