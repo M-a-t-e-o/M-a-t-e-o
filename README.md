@@ -56,13 +56,14 @@
   </a>
 </div>
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
+<br><br><br><br>
 
 <!-- Bottom with good bye and pic -->
 <div id="bottom" align="center">
   Thanks for stopping by my profile! <br>
   See you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
   <img alt="GIF" src="assets/frogs.gif" width="500" style="margin-left: auto; display: block;" />
+  <div align="right">
+    <sup>(👇 Check my repos 👇)</sup>
+  </div>
 </div>
