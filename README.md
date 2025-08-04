@@ -1,27 +1,38 @@
+<!--Pic and text for the header -->
 <div id="header" align="center">
   <img src="sky.jpeg" width="100%"/>
 </div>
 
-## > Hello World! <br> > _ <br><br>
+<h2> > Hello World! <br> > _ <br><br> </h2>
 
-### 👨‍💻 About Me:
+<!-- About me section/table -->
+<h1 align="center"> 👨‍💻 About Me: </h1>
 
-<div id="header" align="center">
-  <br> Hi! <br>
-  I'm Mateo, a student of computer engineering at the University of Zaragoza (UNIZAR), Spain. <br>
-  Some of the things I like are: <br> <br>
-  - Coding 📡 -   Videogames 🎮 -   Reading 📚 - Training 🚴 - <br> <br>
-</div>
-
-<div id="header" align="center">
-  <img src="coding.gif" width="300"/>
-</div>
-
-<br> I recently finished the *CS50: Introduction to Computer Science* as a Summer passtime!
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: top;">
+      <br> Hi! <br>
+      I am <b>Mateo</b> <br>
+      I am from Zaragoza, Spain <br>
+       Currently studying Informatics at the University of Zaragoza... <br>
+      ... and soon to study abroad at the Technical University of Munich <br>
+      Some of the things I like are:
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li> 📡 Coding </li>
+        <li> 🎮 Videogames </li>
+        <li> 📚 Reading </li>
+        <li> 🚴 Working Out </li>
+      </ul>
+    </td>
+    <td style="border: none; padding: 0; text-align: right;">
+      <img alt="GIF" src="coding.gif" width="350" style="margin-left: auto; display: block;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 My Languages and Tools:
+<h1 align="center"> 💻 My Languages and Tools: </h1>
 
 <div id="header" align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -42,11 +53,17 @@
 
 ---
 
-### 📬 Contact Me:
-[![](https://img.shields.io/badge/linkedin-0a66c2)]([https://www.linkedin.com/in/mateo-penya])
-[![](https://img.shields.io/badge/email-red)](mailto:mateopenacosta@gmail.com)
+<h1 align="center"> 📬 Contact Me: </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateo-penya/">
+      <img src="https://img.shields.io/badge/LINKEDIN-6a6cb0?&style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  <a href="mailto:mateopenacosta@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-6a6cb0?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+  </a>
+</p>
 
----
+
 
 <div id="header" align="center">
   Thanks for stopping by my profile! <br>
