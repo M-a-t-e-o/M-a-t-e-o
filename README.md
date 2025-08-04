@@ -1,6 +1,6 @@
 <!--Pic and text for the header -->
 <div id="header" align="center">
-  <img src="sky.jpeg" width="100%"/>
+  <img src="assets/sky.jpeg" width="100%"/>
 </div>
 
 <h2> > Hello World! <br> > _ <br><br> </h2>
@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
-      <img alt="GIF" src="coding.gif" width="350" style="margin-left: auto; display: block;" />
+      <img alt="GIF" src="assets/coding.gif" width="350" style="margin-left: auto; display: block;" />
     </td>
   </tr>
 </table>
@@ -70,6 +70,6 @@
   See you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
 </div>
 <div id="header" align="center">
- <img src="frogs.gif" width="500"/>
+  <img alt="GIF" src="assets/frogs.gif" width="500" style="margin-left: auto; display: block;" />
 </div>
 
