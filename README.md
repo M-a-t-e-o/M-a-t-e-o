@@ -2,74 +2,67 @@
 <div id="header" align="center">
   <img src="assets/sky.jpeg" width="100%"/>
 </div>
-
 <h2> > Hello World! <br> > _ <br><br> </h2>
 
 <!-- About me section/table -->
-<h1 align="center"> 👨‍💻 About Me: </h1>
-
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: top;">
-      <br> Hi! <br>
-      I am <b>Mateo</b> <br>
-      I am from Zaragoza, Spain <br>
-       Currently studying Informatics at the University of Zaragoza... <br>
-      ... and soon to study abroad at the Technical University of Munich <br>
-      Some of the things I like are:
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li> 📡 Coding </li>
-        <li> 🎮 Videogames </li>
-        <li> 📚 Reading </li>
-        <li> 🚴 Working Out </li>
-      </ul>
-    </td>
-    <td style="border: none; padding: 0; text-align: right;">
-      <img alt="GIF" src="assets/coding.gif" width="350" style="margin-left: auto; display: block;" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h1 align="center"> 💻 My Languages and Tools: </h1>
-
-<div id="header" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+<div id="aboutme"; align="center">
+  <h1> 👨‍💻 About Me: </h1>
+  <table style="border-collapse: collapse; border: none; width: 100%;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0; vertical-align: top;">
+          Hi! <br>
+          I am <b>Mateo</b> <br>
+          I am from Zaragoza, Spain <br>
+           Currently studying Informatics at the University of Zaragoza... <br>
+          ... and soon to study abroad at the Technical University of Munich <br>
+          Some of the things I like are:
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li> 📡 Coding </li>
+          <li> 🎮 Videogames </li>
+          <li> 📚 Reading </li>
+          <li> 🚴 Working Out </li>
+        </ul>
+      </td>
+      <td style="border: none; padding: 0; text-align: right;">
+        <img alt="GIF" src="assets/coding.gif" width="350" style="margin-left: auto; display: block;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br><br><br>
 
-<h1 align="center"> 📬 Contact Me: </h1>
-<p align="center">
+<!-- My stack list -->
+<div id="stack"; align="center">
+  <h1> 💻 My Stack: </h1>
+  <h3> Lenguages/Frameworks </h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,terraform,haskell" /> <br>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,flask,sqlite,go" />
+  <br>
+  <h3 align="center"> Environments/Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,vim" />
+</div>
+
+<br><br><br>
+
+<!-- Contact and socials -->
+<div id="contact"; align="center">
+  <h1> 📬 Contact Me: </h1>
   <a href="https://www.linkedin.com/in/mateo-penya/">
       <img src="https://img.shields.io/badge/LINKEDIN-6a6cb0?&style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
   <a href="mailto:mateopenacosta@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-6a6cb0?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
   </a>
-</p>
+</div>
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
-
-<div id="header" align="center">
+<!-- Bottom with good bye and pic -->
+<div id="bottom" align="center">
   Thanks for stopping by my profile! <br>
   See you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br><br>
-</div>
-<div id="header" align="center">
   <img alt="GIF" src="assets/frogs.gif" width="500" style="margin-left: auto; display: block;" />
 </div>
-
