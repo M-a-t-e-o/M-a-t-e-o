@@ -2,7 +2,6 @@
 <div id="header" align="center">
   <img src="assets/sky.jpeg" width="100%"/>
 </div>
-<h2> > Hello World! <br> > _ <br><br> </h2>
 
 <!-- About me section/table -->
 <div id="aboutme"; align="center">
@@ -10,11 +9,10 @@
   <table style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
       <td style="border: none; padding: 0; vertical-align: top;">
-          Hi! <br>
+          Hello World! <br>
           I am <b>Mateo</b> <br>
-          I am from Zaragoza, Spain <br>
-           Currently studying Informatics at the University of Zaragoza... <br>
-          ... and soon to study abroad at the Technical University of Munich <br>
+          I am from Zaragoza, <b>Spain</b> <br>
+          Currently studying at the <b>Technical University of Munich</b> <br>
           Some of the things I like are:
         <ul style="list-style-type: none; padding-left: 0;">
           <li> 📡 Coding </li>
